@@ -1,0 +1,45 @@
+.items{
+  background-image:url('imgs/bg5.jpg');
+
+  height: 700px;
+  width: 100%;
+  background-position: center;
+    background-size:contain;
+    margin-top: 2px;
+
+  }
+.items {
+  width: 80%
+  margin:auto;
+  text-align: center;
+  color:#000000;
+  position: absolute;
+}
+.items h1{
+  font-size: 50px;
+
+}
+
+.gallery{
+  display: flex;
+  width: 900px;
+  margin: auto;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+figure{
+  width: 200px;
+  margin: 8px 0;
+  border: 1;
+  padding: 8px;
+  box-sizing: border-box;
+  background-color: #00FFFF;
+}
+figure img{
+  width: 100%;
+}
+figure figcaption{
+  color: #000000;
+  text-align: center;
+  padding: 8px 4px;
+}

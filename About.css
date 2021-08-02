@@ -1,0 +1,35 @@
+
+.about-section{
+	background-color:#FFB6C1;
+
+	height: 700px;
+	width: 100%;
+	background-position: center;
+    background-size:cover;
+    margin-top: 2px;
+}
+
+
+}
+ *:before, *:after {
+  box-sizing: inherit;
+}
+
+.column {
+  float: left;
+  width: 30%;
+  margin-bottom: 16px;
+  padding: 0 8px;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.05);
+  margin: 8px;
+
+}
+.about-section {
+  padding: 20px;
+  text-align: center;
+  
+  
+}
