@@ -63,7 +63,7 @@
 	width: 90%;
 	color:  :white;
 	position: absolute;
-	top: 50%;
+	top: 30%;
 	left:50%;
     transform: translate(-50%,-50%);
     text-align: center;
@@ -71,6 +71,6 @@
 .text-box h1{
 	font-size: 70px;
 }
-  .text-box h6 {
+  .text-box h4 {
     
   color: #ffffff;
